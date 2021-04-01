@@ -129,22 +129,3 @@ class LaneDetector():
         self.outImg = np.hstack((self.outImg, self.outMask))
         cv2.imshow("Img:", self.outImg)
         cv2.waitKey(30)
-
-
-
-
-
-            
-
-
-    
-        
-
-
-
-
-
-
-
-
-
