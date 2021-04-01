@@ -7,5 +7,5 @@ Multiple lanes detection on CARLA simulator.
 
 ## Demo
 <p align="center">
-  <img src="doc/images/carla_lane_detection_lane_change.gif">
+  <img src="doc/images/carla_lane_detection_lane_change.gif" width=1000>
 </p>
